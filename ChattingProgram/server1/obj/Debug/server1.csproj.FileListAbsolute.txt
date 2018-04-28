@@ -1,0 +1,57 @@
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\bin\Debug\server1.exe
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\bin\Debug\server1.pdb
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\obj\Debug\server1.Form1.resources
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\obj\Debug\server1.csproj.GenerateResource.Cache
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\obj\Debug\server1.exe
+C:\Users\jiho\documents\visual studio 2015\Projects\Choi_01\server1\obj\Debug\server1.pdb
+C:\Users\jiho\Documents\Visual Studio 2015\Projects\Choi_01\server1\obj\Debug\server1.csprojResolveAssemblyReference.cache
+C:\Users\jiho\Desktop\3\Choi_01\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\Desktop\3\Choi_01\server1\obj\Debug\server1.exe
+C:\Users\jiho\Desktop\3\Choi_01\server1\obj\Debug\server1.pdb
+C:\Users\jiho\Desktop\3\Choi_01\server1\bin\Debug\server1.exe
+C:\Users\jiho\Desktop\3\Choi_01\server1\bin\Debug\server1.pdb
+C:\Users\jiho\Desktop\3\Choi_01\server1\obj\Debug\server1.csprojResolveAssemblyReference.cache
+C:\Users\jiho\Desktop\3\Choi_01\server1\obj\Debug\server1.Form1.resources
+C:\Users\jiho\Desktop\3\Choi_01\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\jiho\Desktop\3\Choi_01\server1\obj\Debug\server1.csproj.GenerateResource.Cache
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\obj\Debug\server1.exe
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\obj\Debug\server1.pdb
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\bin\Debug\server1.exe
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\bin\Debug\server1.pdb
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\obj\Debug\server1.csprojResolveAssemblyReference.cache
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\obj\Debug\server1.Form1.resources
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\jiho\Desktop\새 폴더 (2)\Choi_01 (2)\server1\obj\Debug\server1.csproj.GenerateResource.Cache
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\obj\Debug\server1.exe
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\obj\Debug\server1.pdb
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\bin\Debug\server1.exe
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\bin\Debug\server1.pdb
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\obj\Debug\server1.csprojResolveAssemblyReference.cache
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\obj\Debug\server1.Form1.resources
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\jiho\Desktop\이걸 수정합시다\Choi_01 (2)\server1\obj\Debug\server1.csproj.GenerateResource.Cache
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\obj\Debug\server1.exe
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\obj\Debug\server1.pdb
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\bin\Debug\server1.exe
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\bin\Debug\server1.pdb
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\obj\Debug\server1.csprojResolveAssemblyReference.cache
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\obj\Debug\server1.Form1.resources
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\jiho\Desktop\새 폴더 (3)\Choi_01 (2) (3)\server1\obj\Debug\server1.csproj.GenerateResource.Cache
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\bin\Debug\server1.exe
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\bin\Debug\server1.pdb
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\obj\Debug\server1.csprojResolveAssemblyReference.cache
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\obj\Debug\server1.Form1.resources
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\obj\Debug\server1.csproj.GenerateResource.Cache
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\obj\Debug\server1.exe
+C:\Users\jiho\Desktop\metroui적용,휴대폰화면 적용\Choi_01 (2) (3) (6)\server1\obj\Debug\server1.pdb
+C:\Users\jiho\Desktop\c# 최종본\Choi_01 (2) (3) (6) (2) (2)\server1\bin\Debug\server1.exe.config
+C:\Users\jiho\Desktop\c# 최종본\Choi_01 (2) (3) (6) (2) (2)\server1\obj\Debug\server1.exe
+C:\Users\jiho\Desktop\c# 최종본\Choi_01 (2) (3) (6) (2) (2)\server1\obj\Debug\server1.pdb

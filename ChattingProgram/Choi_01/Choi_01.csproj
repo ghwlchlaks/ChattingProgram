@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83D6E146-3B10-4EEB-BB0C-6438441B2BAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Choi_01</RootNamespace>
+    <AssemblyName>Choi_01</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics4.Shared.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics4.Win.Misc.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinEditors.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinGrid.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinListView.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics4.Win.UltraWinLiveTileView.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinRadialMenu.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinSchedule.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinSpellChecker.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.UltraWinTabControl.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics4.Win.UltraWinToolbars.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics4.Win.v16.2, Version=16.2.20162.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\Downloads\dennismagno-metroframework-modern-ui-5e44b25\MetroFramework\bin\Release\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\Downloads\dennismagno-metroframework-modern-ui-5e44b25\MetroFramework.Design\bin\Release\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\Downloads\dennismagno-metroframework-modern-ui-5e44b25\MetroFramework.Demo\bin\Release\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Presentation" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3Chatting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3Chatting.Designer.cs">
+      <DependentUpon>3Chatting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoubleBufferPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Emoticon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emoticon.Designer.cs">
+      <DependentUpon>Emoticon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="weather.cs" />
+    <EmbeddedResource Include="3Chatting.resx">
+      <DependentUpon>3Chatting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoubleBufferPanel.resx">
+      <DependentUpon>DoubleBufferPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emoticon.resx">
+      <DependentUpon>Emoticon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anyang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nav_logo242_hr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesend.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reverse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon3.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon4.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon5.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon6.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon7.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon8.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon9.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon11.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon12.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon13.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon14.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon15.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon10.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\face.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\label.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목 없음-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목 없음-21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\form.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\form.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목 없음-6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pback.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목 없음-61.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pback1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\news.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e8.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e10.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e14.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e15.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\realfinal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\realfinal1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,11 @@
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\bin\Debug\Choi_01.exe.config
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\bin\Debug\Choi_01.exe
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\bin\Debug\Choi_01.pdb
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.csprojResolveAssemblyReference.cache
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.FormLogin.resources
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.Properties.Resources.resources
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.csproj.GenerateResource.Cache
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.exe
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.pdb
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.Create.resources
+c:\users\jiho\documents\visual studio 2015\Projects\Choi_01\Choi_01\obj\Debug\Choi_01.FormChat.resources
